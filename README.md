@@ -19,6 +19,7 @@
 ##### Run the pyscanner.py file
 ##### give it the input of the document you waant scanned
 ##### Provided is an example image to apply
+##### Use trackbars to alter img thresholds for the picture to detect and localize the document.
 ##### The document can be anything, coloured or b/w.
 ###
 
