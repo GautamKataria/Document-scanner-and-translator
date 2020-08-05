@@ -21,9 +21,11 @@
 ##### Provided is an example image to apply
 ##### Use trackbars to alter img thresholds for the picture to detect and localize the document.
 ##### The document can be anything, coloured or b/w.
+##### When you're happy with the detections press 's' key on your keyboard to save the image.
+##### When you're done with the program, press q to exit.
 ###
 
-### Aftermath
+### Outcome
 ##### The document would be read and printed in the command prompt, it can easily be stored in a word file or something if you really want to.
 ##### Same with the translated text.
 ##### The scanned b/w picture document would be saved in the "Scanned" folder with the name "Name of doc_scanned.jpg"
